@@ -1,0 +1,4 @@
+#!/usr/bin/env python2
+
+from bot_procman.sheriff_gtk import sheriff_gtk
+sheriff_gtk.main()
